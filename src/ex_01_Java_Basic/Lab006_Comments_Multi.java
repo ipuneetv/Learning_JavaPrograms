@@ -5,7 +5,7 @@ public class Lab006_Comments_Multi {
         /**
          * Author - Puneet
          * Program : Java basics
-         * Testing multo line comments
+         * Testing multi line comments
          **/
         System.out.println("Multi Comments");
     }

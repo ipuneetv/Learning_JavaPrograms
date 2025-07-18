@@ -6,6 +6,6 @@ public class Lab011_Common_Math {
         System.out.println(2*2);
         System.out.println(2/2);
         System.out.println(2-2);
-        System.out.println(3/2); // println - integer part - no decimal
+        System.out.println(3/2); // println - will always return integer part - no decimal
     }
 }
