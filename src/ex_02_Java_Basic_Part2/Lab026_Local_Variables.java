@@ -5,8 +5,8 @@ public class Lab026_Local_Variables {
         int a =10;
         byte b = 10;
         short s = 10;
-        long l = 987654321l; // l in end
-        float f = 3.14f; // f in end
+        long l = 987654321l; // l in end, can be L as well
+        float f = 3.14f; // f in end, can be F as well
         double d = 67.453646464363;
         boolean b1 = true;
         char c = 'A';

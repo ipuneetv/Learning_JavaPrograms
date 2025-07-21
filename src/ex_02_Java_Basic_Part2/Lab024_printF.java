@@ -11,7 +11,7 @@ public class Lab024_printF {
         //%f -> float, double
         //%b -> boolean
 int b = 20;
-        System.out.println("---");
+        System.out.print("---");
         System.out.printf("%d + %d",a,b);
 
     }

@@ -6,6 +6,6 @@ public class Lab014_Variables {
     }
 
     public static void main(int[] args) {
-
+//multiple main functions can be there but only one will be used at a time
     }
 }

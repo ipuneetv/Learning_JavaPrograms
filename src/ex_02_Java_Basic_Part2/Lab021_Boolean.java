@@ -5,6 +5,8 @@ public class Lab021_Boolean {
         boolean is_puneett_married =  true;
         boolean is_puneett_kr_verma = false;
         boolean does_puneett_has_fortuner = false;
+        boolean will_puneett_have_fortuner_soon = true;
         boolean jab_0_diya_mere_bharat_ne_bharat_ne_mere_bharatne_duniyako_tak_ginati_aayi_taaroki_bhasha_bharatne_duniyako_pehle_sokhlaayi = true;
+        System.out.println(will_puneett_have_fortuner_soon);
     }
 }
