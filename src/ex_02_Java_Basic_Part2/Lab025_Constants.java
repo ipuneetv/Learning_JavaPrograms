@@ -6,6 +6,7 @@ public class Lab025_Constants {
         //a=12; // a= 12 ; not possible to change the value
 
         final float PI =3.14f;
+        System.out.println(a);
         System.out.println(PI);
     }
 }
