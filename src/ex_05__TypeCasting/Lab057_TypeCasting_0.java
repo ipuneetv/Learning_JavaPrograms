@@ -6,6 +6,5 @@ public class Lab057_TypeCasting_0 {
         int a = b; // Valid syntax -> smaller data into the bigger data type
         // Implicit - Casting - Widening
 
-
     }
 }

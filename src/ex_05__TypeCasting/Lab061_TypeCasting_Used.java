@@ -13,6 +13,5 @@ public class Lab061_TypeCasting_Used {
         System.out.println(total2);
         System.out.println(total3);
 
-
     }
 }

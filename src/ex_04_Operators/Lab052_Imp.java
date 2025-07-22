@@ -6,5 +6,6 @@ public class Lab052_Imp {
         boolean b = (10 == 11); // == -> Comparison 2 values
         System.out.println(a);
         System.out.println(b);
+
     }
 }

@@ -7,5 +7,6 @@ public class Lab053_Imp {
         String s = "name"; //  8 Byte, 64 Bits
         System.out.println(l);
         System.out.println(s);
+
     }
 }

@@ -6,5 +6,6 @@ public class Lab054_Imp {
         char b1 = 'B'; // 66
         System.out.println(a1 + b1);
         // a1+b1 - 65+66 -> 131
+
     }
 }
