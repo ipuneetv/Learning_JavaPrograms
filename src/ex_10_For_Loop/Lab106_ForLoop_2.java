@@ -10,5 +10,4 @@ public class Lab106_ForLoop_2 {
         }
 
     }
-
 }

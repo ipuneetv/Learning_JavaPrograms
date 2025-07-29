@@ -9,5 +9,4 @@ public class Lab114_For_Real_Case {
             System.out.println("print the details of the elements");
         }
     }
-
 }

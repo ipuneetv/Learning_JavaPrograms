@@ -15,8 +15,6 @@ public class LAb109_For_For {
             //8
             //9
         }
-
-
         for(int i = 1;i<=10;i++){ // 1 to 10, 10 times
             System.out.println(i);
         }
