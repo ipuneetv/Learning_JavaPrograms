@@ -5,7 +5,7 @@ public class Lab110_Odd_Even_From_Top50 {
         // TO find the even numbers from 1 to 50
         // even -> i%2 ==0
         for (int i = 0; i <= 50; i++) {
-            if (i % 2 == 0) {
+            if (i % 2 == 0) { // if only one line , "if" brackets are not allowed
                 System.out.println("Even -> " + i);
             } else {
                 System.out.println("Odd ->" + i);
