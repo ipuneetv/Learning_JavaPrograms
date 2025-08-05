@@ -10,10 +10,7 @@ public class Lab130_Simple_Method {
         boolean r = return_boolean();
         System.out.println(r);
 
-
-
     }
-
 
     static void pramod_f1(){
         System.out.println("No Return");

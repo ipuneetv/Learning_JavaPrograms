@@ -66,7 +66,6 @@ public class Lab134_Function_Arth {
     static int sum(int a, int b) {
         return a + b;
     }
-
     /**
      * Subtracts the second integer from the first.
      *

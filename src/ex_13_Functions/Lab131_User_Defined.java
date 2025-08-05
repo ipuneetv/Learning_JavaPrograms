@@ -8,7 +8,6 @@ public class Lab131_User_Defined {
         System.out.println(r1);
         System.out.println(r2);
 
-
     }
 
     static int sum_of_two_number(int a, int b){

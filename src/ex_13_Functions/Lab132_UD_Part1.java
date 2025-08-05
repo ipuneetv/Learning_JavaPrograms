@@ -72,5 +72,4 @@ public class Lab132_UD_Part1 {
     static int sum_of_three_numbers(int a, int b,int c){
         return a+b+c;
     }
-
 }
