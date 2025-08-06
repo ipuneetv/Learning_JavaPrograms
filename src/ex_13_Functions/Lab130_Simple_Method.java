@@ -11,10 +11,12 @@ public class Lab130_Simple_Method {
         System.out.println(r);
 
     }
-
+                                        // non-returning function; since return type is void
     static void pramod_f1(){
         System.out.println("No Return");
     }
+
+                                        // examples of return function
     static int return_int(){
         return 10;
     }
@@ -36,7 +38,7 @@ public class Lab130_Simple_Method {
     }
 
     static String return_String(){
-        return "Pramod";
+        return "puneett";
     }
 
 

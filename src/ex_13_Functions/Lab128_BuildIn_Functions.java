@@ -1,7 +1,6 @@
 package ex_13_Functions;
-import java.util.*;
 
-public class Lab128_Functions {
+public class Lab128_BuildIn_Functions {
     public static void main(String[] args) {
         // Built - in
         // Created by the java Guys.
@@ -10,7 +9,7 @@ public class Lab128_Functions {
         System.out.println("max is : " +  max);
         System.out.println("min is : " +  min);
 
-        //In case of Built In function JVM is calling function
+        //In case of Built In function , definition is built in & calling is done in JVM
         // we just call these functions, since these are already defines
 
 
