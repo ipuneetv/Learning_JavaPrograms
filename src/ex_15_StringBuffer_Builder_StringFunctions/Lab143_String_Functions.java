@@ -89,17 +89,10 @@ public class Lab143_String_Functions {
         String result1 = s111 + s333 + s222;
         System.out.println(result1);
 
-
-
         String n = "PuneettvERMA";
         System.out.println(n.indexOf("T"));
         System.out.println(n.lastIndexOf("V"));
         System.out.println(n.lastIndexOf("A"));
-
-
-
-
-
 
     }
 }

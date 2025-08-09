@@ -17,9 +17,6 @@ public class Lab144_StringBuilder_Vs_Buffer {
         System.out.println(stringBuilder);
 
 
-
-
-
     }
 }
 

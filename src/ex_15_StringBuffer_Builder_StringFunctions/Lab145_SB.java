@@ -12,6 +12,5 @@ public class Lab145_SB {
         String s3 = s1 + s2; // Creates a new string "Hello World!"
         System.out.println(s3); // Output: Hello World!
         System.out.println(s1);
-
     }
 }

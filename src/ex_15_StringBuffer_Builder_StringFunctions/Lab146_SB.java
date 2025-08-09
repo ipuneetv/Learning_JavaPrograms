@@ -6,6 +6,5 @@ public class Lab146_SB {
         stringBuilder.append(123);
         System.out.println(stringBuilder);
 
-
     }
 }
